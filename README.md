@@ -4,7 +4,7 @@
 📧 **Email:** s.taqiuddin6987@gmail.com  
 📱 **Phone:** +92-346-3242636  
 💼 **LinkedIn:** [linkedin.com/in/staqiuddin](https://www.linkedin.com/in/staqiuddin)  
-🗣️ **Skype:** s.taqiuddin  
+🗣️ **Microsoft Teams:** s.taqiuddin  
 
 ---
 
