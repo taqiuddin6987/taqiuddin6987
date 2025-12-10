@@ -24,6 +24,7 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -64,7 +65,7 @@ Stripe, PayFast, NMI, MyFatoorah, Twilio, SendGrid, Giact, Google Maps API
 - Led cross-functional team & implemented clean code practices  
 - Integrated DevOps practices for CI/CD and deployment  
 
-**Tech Stack:** Node.js, NestJS, React, Ionic, React Native, Flutter, Next.js, RabbitMQ, Redis, PM2, Knex.js, PostgreSQL, Redux Toolkit, Tailwind CSS, MUI, Angular, Stripe, PayFast, Linux
+**Tech Stack:** Node.js, NestJS, Prisma, React, Ionic, React Native, Flutter, Next.js, RabbitMQ, Redis, PM2, Knex.js, PostgreSQL, Redux Toolkit, Tailwind CSS, MUI, Angular, Stripe, PayFast, Linux
 
 ---
 
@@ -74,7 +75,7 @@ Stripe, PayFast, NMI, MyFatoorah, Twilio, SendGrid, Giact, Google Maps API
 - Integrated Twilio, SendGrid, NMI; built secure payment gateways  
 - Delivered Shopify dev, admin panels, and lead management tools  
 
-**Tech Stack:** MEAN/MERN, Node.js, CodeIgniter, MySQL, MongoDB, Spring Boot, Stripe, Twilio, AWS
+**Tech Stack:** MEAN/MERN, Node.js, Prisma, CodeIgniter, MySQL, MongoDB, Spring Boot, Stripe, Twilio, AWS
 
 ---
 
