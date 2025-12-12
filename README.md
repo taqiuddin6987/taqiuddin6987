@@ -48,6 +48,9 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-5333ED?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ### **Tools & Collaboration**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
