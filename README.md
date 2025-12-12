@@ -101,7 +101,7 @@ I’m passionate about clean code, performance optimization, and solving complex
 - Optimized system performance and scalability, handling **high traffic volumes** and **real-time communication features**.  
 - Mentored junior developers, conducted code reviews, and promoted **best engineering practices** across the team.  
 
-### **Technologies Used:**
+**Technologies Used:**
 
 - **Backend:** Node.js, NestJS, Prisma, Fastify, PHP, Spring Boot
 - **Frontend & Mobile:** React, React Native, Ionic, Flutter, Next.js, Angular, Redux Toolkit, Tailwind CSS, MUI
