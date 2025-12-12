@@ -50,10 +50,25 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Tools & Collaboration**
-Git, Bitbucket, Sourcetree, Jira, Slack, PM2, Postman, Swagger
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 
 ### **API & Integrations**
-Stripe, PayFast, NMI, MyFatoorah, Twilio, SendGrid, Giact, Google Maps API
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![PayFast](https://img.shields.io/badge/PayFast-E3000F?style=for-the-badge&logo=payfast&logoColor=white)
+![NMI](https://img.shields.io/badge/NMI-0A5F9E?style=for-the-badge&logo=npm&logoColor=white)
+![MyFatoorah](https://img.shields.io/badge/MyFatoorah-0096D6?style=for-the-badge&logo=googlepay&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![SendGrid](https://img.shields.io/badge/SendGrid-0085CA?style=for-the-badge&logo=sendgrid&logoColor=white)
+![Giact](https://img.shields.io/badge/Giact-1A73E8?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ---
 
