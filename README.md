@@ -9,14 +9,28 @@
 ---
 
 ## 🚀 About Me
-Dynamic **Senior Software Engineer** with **10+ years** of experience building **scalable web & mobile solutions**.  
-Passionate about **clean code, DevOps**, and **continuous learning**, with expertise in modern tech stacks and leading cross-functional teams.
+I’m Syed Taqiuddin, a Senior Software Engineer & Team Lead with over 10 years of experience building scalable, high-performance web and mobile applications. I specialize in backend engineering, system architecture, microservices, and real-time systems using technologies like Node.js, NestJS, Redis, RabbitMQ, and PostgreSQL.
+
+As a Team Lead, I:
+- Drive technical direction and architecture decisions
+- Mentor junior developers and conduct code reviews
+- Manage sprint planning and improve engineering workflows
+- Ensure smooth delivery and maintain clean code across teams
+
+I deliver end-to-end solutions, including:
+- Designing efficient databases and robust APIs
+- Implementing CI/CD pipelines and deploying cloud infrastructure
+- Maintaining production observability and high system reliability
+- Integrating third-party services like Stripe, NMI, PayFast, Twilio, SendGrid, and Google APIs
+
+I’m passionate about clean code, performance optimization, and solving complex technical challenges. I continuously explore modern technologies to build systems that scale smoothly, improve business outcomes, and enhance team productivity.
+
 
 ---
 
 ## 🛠️ Tech Skills
 
-### **Backend**
+### **Backend & DevOps**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,6 +39,12 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![Knex.js](https://img.shields.io/badge/Knex.js-000000?style=for-the-badge&logo=knex&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,13 +61,8 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Knex.js](https://img.shields.io/badge/Knex.js-000000?style=for-the-badge&logo=knex&logoColor=white)
 
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-CA0000?style=for-the-badge&logo=apache&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Cloud & Hosting**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-5333ED?style=for-the-badge&logo=hostinger&logoColor=white)
@@ -58,10 +73,8 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 
 ### **API & Integrations**
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
@@ -73,43 +86,87 @@ Passionate about **clean code, DevOps**, and **continuous learning**, with exper
 ![Giact](https://img.shields.io/badge/Giact-1A73E8?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+
 ---
 
 ## 💼 Professional Experience
 
-### **URAPP Technologies — Senior Software Engineer & Team Lead**
-📅 *June 2023 – Present*  
-- Multi-vendor e-commerce & appointment booking platform  
-- Led cross-functional team & implemented clean code practices  
-- Integrated DevOps practices for CI/CD and deployment  
+### **URAPP Technologies — Senior Software Engineer & Team Lead**  
+📅 *June 2023 – Present*
 
-**Tech Stack:** Node.js, NestJS, Prisma, React, Ionic, React Native, Flutter, Next.js, RabbitMQ, Redis, PM2, Knex.js, PostgreSQL, Redux Toolkit, Tailwind CSS, MUI, Angular, Stripe, PayFast, Linux
+**Key Achievements & Responsibilities:**  
+- Led a **cross-functional engineering team of 5-10 members** to deliver a multi-vendor e-commerce & appointment booking platform.  
+- Drove **technical architecture decisions**, implemented **clean code practices**, and ensured **high code quality** across projects.  
+- Integrated **DevOps workflows** for CI/CD, automated deployments, and production monitoring, improving **release efficiency by 25%**.  
+- Optimized system performance and scalability, handling **high traffic volumes** and **real-time communication features**.  
+- Mentored junior developers, conducted code reviews, and promoted **best engineering practices** across the team.  
 
----
+### **Technologies Used:**
 
-### **2CIMPLE Inc. — Software Engineer**
-📅 *Feb 2015 – May 2023*  
-- Developed Nano Management & Auction Management platforms  
-- Integrated Twilio, SendGrid, NMI; built secure payment gateways  
-- Delivered Shopify dev, admin panels, and lead management tools  
+- **Backend:** Node.js, NestJS, Prisma, Fastify, PHP, Spring Boot
+- **Frontend & Mobile:** React, React Native, Ionic, Flutter, Next.js, Angular, Redux Toolkit, Tailwind CSS, MUI
+- **Databases & Cache:** PostgreSQL, MySQL, MongoDB, Redis, Knex.js
+- **Messaging & Queue:** RabbitMQ, PM2
+- **Cloud & DevOps:** AWS, Linux, Docker, Nginx, Hostinger
+- **Payments & Integrations:** Stripe, PayFast, Twilio, SendGrid, MyFatoorah, Google APIs
 
-**Tech Stack:** MEAN/MERN, Node.js, Prisma, CodeIgniter, MySQL, MongoDB, Spring Boot, Stripe, Twilio, AWS
 
----
-
-### **Technology Bees — Web Developer**
-📅 *Jan 2014 – Feb 2015*  
-- Magento-based e-commerce backend & frontend customizations  
-
-**Tech Stack:** PHP, Magento, HTML, CSS, JS, MySQL
 
 ---
 
-### **Geeksroot — Web Developer**
-📅 *Mar 2013 – Dec 2013*  
-- Built & maintained PHP/MySQL websites  
+### **2CIMPLE Inc. — Software Engineer & QA**  
+📅 *Feb 2015 – May 2023*
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, JS
+**Key Achievements & Responsibilities:**  
+- Developed **Nano Management & Auction Management platforms** for internal and client projects.  
+- Integrated **Twilio, SendGrid, NMI, and payment gateways** ensuring secure transactions.  
+- Delivered **Shopify development, admin panels, and lead management tools**.  
+- Performed **Quality Assurance (QA) for 1 year**, including testing, bug tracking, and ensuring production-ready releases.  
+- Enhanced **backend & frontend systems**, working with PHP, HTML, CSS, Bootstrap, and JavaScript.  
+- Collaborated with cross-functional teams and optimized legacy systems for performance and reliability.  
+
+**Technologies Used:**  
+- **Backend:** Node.js, PHP, CodeIgniter, Spring Boot  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Databases:** MySQL, MongoDB  
+- **Messaging & Integrations:** Twilio, SendGrid, NMI, Giact, Stripe  
+- **Stack Variants:** MEAN/MERN
+
+
+---
+
+### **Technology Bees — Web Developer**  
+📅 *Jan 2014 – Feb 2015*
+
+**Key Achievements & Responsibilities:**  
+- Developed and customized **Magento-based e-commerce websites**, including backend and frontend modules, payment gateways, and frontend theming  
+- Enhanced **website performance, responsiveness, and user experience** using HTML, CSS, and JavaScript.  
+- Managed **MySQL databases**, optimized queries, and ensured fast data retrieval.  
+- Collaborated with designers and clients to deliver **production-ready websites on time**.  
+
+**Technologies Used:**  
+- **Backend:** PHP, Magento  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Databases:** MySQL
+
+
+---
+
+### **Geeksroot — Web Developer**  
+📅 *Mar 2013 – Dec 2013*
+
+**Key Achievements & Responsibilities:**  
+- Started professional career by **building and maintaining PHP/MySQL websites** for clients and internal projects.  
+- Developed **dynamic web pages, forms, and admin panels** using PHP, HTML, CSS, and JavaScript.  
+- Managed **database operations and optimized queries** for better performance.  
+- Collaborated with designers to ensure **responsive and user-friendly web interfaces**.  
+- Gained foundational experience in **full-stack web development and project workflows**.  
+
+**Technologies Used:**  
+- **Backend:** PHP  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Databases:** MySQL
+
 
 ---
 
