@@ -185,9 +185,10 @@ I’m passionate about clean code, performance optimization, and solving complex
 ---
 
 ## 📊 GitHub Stats (Shields.io – Fully Working)
-![GitHub followers](https://img.shields.io/github/followers/staqiuddin?label=Followers&style=social)
-![GitHub Repos](https://img.shields.io/github/repos/staqiuddin?style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/staqiuddin?style=flat-square)
+![Followers](https://img.shields.io/github/followers/taqiuddin6987?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/taqiuddin6987?style=social)
+![GitHub Repos](https://img.shields.io/github/repos/taqiuddin6987?style=flat-square)
+![Top Language](https://img.shields.io/github/languages/top/taqiuddin6987?style=flat-square)
 
 ---
 
