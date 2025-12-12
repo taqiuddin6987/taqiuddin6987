@@ -187,8 +187,8 @@ I’m passionate about clean code, performance optimization, and solving complex
 ## 📊 GitHub Stats (Shields.io – Fully Working)
 ![Followers](https://img.shields.io/github/followers/taqiuddin6987?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/taqiuddin6987?style=social)
-![GitHub Repos](https://img.shields.io/github/repos/taqiuddin6987?style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/taqiuddin6987?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=taqiuddin6987&color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taqiuddin6987)
 
 ---
 
