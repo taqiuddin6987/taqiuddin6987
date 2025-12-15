@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Syed Taqiuddin**
-### Senior Software Engineer | Full Stack Developer
+### Senior Software Engineer | Team Lead | Full Stack Developer
 
 📧 **Email:** s.taqiuddin6987@gmail.com  
 📱 **Phone:** +92-346-3242636  
