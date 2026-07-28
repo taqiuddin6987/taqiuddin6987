@@ -114,8 +114,6 @@ to improve development efficiency, debugging, and engineering productivity.
 
 ## 💼 Professional Experience
 
-## 💼 Experience
-
 ### Team Lead — Dabster Solution Partner
 **Mar 2026 – Present | Remote | Karachi, Pakistan**
 
