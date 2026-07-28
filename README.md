@@ -5,25 +5,49 @@
 📱 **Phone:** +92-346-3242636  
 💼 **LinkedIn:** [linkedin.com/in/staqiuddin](https://www.linkedin.com/in/staqiuddin)  
 🗣️ **Microsoft Teams:** s.taqiuddin  
-
+## Team Lead | Full Stack Developer | Node.js | NestJS | PHP | Spring Boot | Postgres | MySql | MongoDB | Ionic | React Native | Next.js | React | Javascript | Flutter | Python | Redis  | RabbitMq | Amazon Web Services
 ---
 
-## 🚀 About Me
-I’m Syed Taqiuddin, a Senior Software Engineer & Team Lead with over 10 years of experience building scalable, high-performance web and mobile applications. I specialize in backend engineering, system architecture, microservices, and real-time systems using technologies like Node.js, NestJS, Redis, RabbitMQ, and PostgreSQL.
+## About Me
+I'm a Senior Software Engineer with 12+ years of experience building scalable web and mobile applications, enterprise systems, and business automation solutions.
+I specialize in backend engineering, system architecture, and distributed systems with a strong focus on building reliable, secure, and high-performance software.
 
-As a Team Lead, I:
-- Drive technical direction and architecture decisions
-- Mentor junior developers and conduct code reviews
-- Manage sprint planning and improve engineering workflows
-- Ensure smooth delivery and maintain clean code across teams
+### Expertise
 
-I deliver end-to-end solutions, including:
-- Designing efficient databases and robust APIs
-- Implementing CI/CD pipelines and deploying cloud infrastructure
-- Maintaining production observability and high system reliability
-- Integrating third-party services like Stripe, NMI, PayFast, Twilio, SendGrid, and Google APIs
+* Backend Development: Node.js, NestJS, PHP, Laravel, Spring Boot, Python
+* Frontend Development: React, Next.js, Angular, JavaScript
+* Mobile Development: Flutter, Ionic, React Native
+* Databases: PostgreSQL, MySQL, MongoDB
+* Infrastructure: Redis, RabbitMQ, AWS, CI/CD, Cloud Deployments
+* Architecture: REST APIs, Microservices, Distributed Systems, Scalable Applications
 
-I’m passionate about clean code, performance optimization, and solving complex technical challenges. I continuously explore modern technologies to build systems that scale smoothly, improve business outcomes, and enhance team productivity.
+### What I Build
+
+* Enterprise Software Solutions
+* ERP & POS Systems
+* SaaS Platforms
+* E-commerce Applications
+* Booking Platforms
+* Business Automation Systems
+* API-driven Applications
+* Cloud-based Solutions
+
+### Engineering Approach
+
+I focus on clean architecture, maintainable code, performance optimization, security, and production-ready solutions.
+
+As a Team Lead, I enjoy mentoring engineers, improving development workflows, conducting code reviews, and driving technical decisions.
+
+### AI-Assisted Development
+
+I actively use modern AI development tools including:
+
+* ChatGPT
+* Codex CLI
+* GitHub Copilot
+* Gemini
+
+to improve development efficiency, debugging, and engineering productivity.
 
 
 ---
