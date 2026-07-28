@@ -114,82 +114,71 @@ to improve development efficiency, debugging, and engineering productivity.
 
 ## 💼 Professional Experience
 
-### **URAPP Technologies — Senior Software Engineer & Team Lead**  
-📅 *June 2023 – Present*
+## 💼 Experience
 
-**Key Achievements & Responsibilities:**  
-- Led a **cross-functional engineering team of 5-10 members** to deliver a multi-vendor e-commerce & appointment booking platform.  
-- Drove **technical architecture decisions**, implemented **clean code practices**, and ensured **high code quality** across projects.  
-- Integrated **DevOps workflows** for CI/CD, automated deployments, and production monitoring, improving **release efficiency by 25%**.  
-- Optimized system performance and scalability, handling **high traffic volumes** and **real-time communication features**.  
-- Mentored junior developers, conducted code reviews, and promoted **best engineering practices** across the team.  
+### Team Lead — Dabster Solution Partner
+**Mar 2026 – Present | Remote | Karachi, Pakistan**
 
-**Technologies Used:**
+**Key Achievements & Responsibilities:**
 
-- **Backend:** Node.js, NestJS, Prisma, Fastify, PHP, Spring Boot
-- **Frontend & Mobile:** React, React Native, Ionic, Flutter, Next.js, Angular, Redux Toolkit, Tailwind CSS, MUI
-- **Databases & Cache:** PostgreSQL, MySQL, MongoDB, Redis, Knex.js
-- **Messaging & Queue:** RabbitMQ, PM2
-- **Cloud & DevOps:** AWS, Linux, Docker, Nginx, Hostinger
-- **Payments & Integrations:** Stripe, PayFast, Twilio, SendGrid, MyFatoorah, Google APIs
-
-
+- Leading the development and delivery of custom software solutions with a focus on scalability, performance, and maintainable architecture.
+- Designing secure and reliable systems with strong focus on authentication, authorization, data protection, and production stability.
+- Delivering business applications, dashboards, and enterprise solutions tailored to client requirements across different domains.
+- Applying clean architecture principles, reusable modules, and scalable design patterns to improve code quality and maintainability.
+- Leveraging AI-assisted development tools to improve productivity, debugging efficiency, and software delivery workflows.
 
 ---
 
-### **2CIMPLE Inc. — Software Engineer & QA**  
-📅 *Feb 2015 – May 2023*
+### Team Lead — UrApp Technologies
+**Jun 2023 – Feb 2026 | On-site | Karachi, Pakistan**
 
-**Key Achievements & Responsibilities:**  
-- Developed **Nano Management & Auction Management platforms** for internal and client projects.  
-- Integrated **Twilio, SendGrid, NMI, and payment gateways** ensuring secure transactions.  
-- Delivered **Shopify development, admin panels, and lead management tools**.  
-- Performed **Quality Assurance (QA) for 1 year**, including testing, bug tracking, and ensuring production-ready releases.  
-- Enhanced **backend & frontend systems**, working with PHP, HTML, CSS, Bootstrap, and JavaScript.  
-- Collaborated with cross-functional teams and optimized legacy systems for performance and reliability.  
+**Key Achievements & Responsibilities:**
 
-**Technologies Used:**  
-- **Backend:** Node.js, PHP, CodeIgniter, Spring Boot  
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
-- **Databases:** MySQL, MongoDB  
-- **Messaging & Integrations:** Twilio, SendGrid, NMI, Giact, Stripe  
-- **Stack Variants:** MEAN/MERN
-
+- Led the end-to-end development of a multi-vendor e-commerce and appointment booking platform, from system design to production deployment.
+- Managed and guided a cross-functional development team, ensuring high-quality delivery, clean code practices, and effective engineering workflows.
+- Designed scalable backend architecture, business modules, and API-driven solutions to support platform growth and long-term maintainability.
+- Improved development and deployment processes by implementing effective DevOps practices and production workflows.
+- Collaborated with stakeholders, designers, and developers to convert business requirements into reliable and user-focused software solutions.
+- Focused on system scalability, performance optimization, code quality, and continuous improvement throughout the product lifecycle.
 
 ---
 
-### **Technology Bees — Web Developer**  
-📅 *Jan 2014 – Feb 2015*
+### Software Engineer — 2Cimple
+**Feb 2015 – May 2023 | On-site | Karachi, Pakistan**
 
-**Key Achievements & Responsibilities:**  
-- Developed and customized **Magento-based e-commerce websites**, including backend and frontend modules, payment gateways, and frontend theming  
-- Enhanced **website performance, responsiveness, and user experience** using HTML, CSS, and JavaScript.  
-- Managed **MySQL databases**, optimized queries, and ensured fast data retrieval.  
-- Collaborated with designers and clients to deliver **production-ready websites on time**.  
+**Key Achievements & Responsibilities:**
 
-**Technologies Used:**  
-- **Backend:** PHP, Magento  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** MySQL
-
+- Developed and maintained enterprise-level web applications, contributing across backend systems, frontend interfaces, and complete product workflows.
+- Designed and optimized database architectures to support large-scale applications with focus on performance, reliability, and maintainability.
+- Integrated third-party services and external platforms to enable secure payments, communication workflows, and business automation.
+- Delivered full-stack solutions including e-commerce platforms, admin dashboards, campaign management systems, and business applications.
+- Collaborated with cross-functional teams to analyze requirements, design technical solutions, and deliver production-ready software.
+- Contributed to improving application stability, scalability, and overall engineering quality through continuous optimization.
 
 ---
 
-### **Geeksroot — Web Developer**  
-📅 *Mar 2013 – Dec 2013*
+### Web Developer — Technology Bees
+**Jan 2014 – Feb 2015 | On-site | Karachi, Pakistan**
 
-**Key Achievements & Responsibilities:**  
-- Started professional career by **building and maintaining PHP/MySQL websites** for clients and internal projects.  
-- Developed **dynamic web pages, forms, and admin panels** using PHP, HTML, CSS, and JavaScript.  
-- Managed **database operations and optimized queries** for better performance.  
-- Collaborated with designers to ensure **responsive and user-friendly web interfaces**.  
-- Gained foundational experience in **full-stack web development and project workflows**.  
+**Key Achievements & Responsibilities:**
 
-**Technologies Used:**  
-- **Backend:** PHP  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Databases:** MySQL
+- Developed and customized e-commerce applications, contributing to backend functionality and frontend user experiences.
+- Built and maintained web solutions based on client requirements, focusing on usability, performance, and reliability.
+- Collaborated with clients and design teams to translate business needs into functional web applications.
+- Worked on application enhancements, feature development, and technical improvements to support business goals.
+- Gained strong foundations in web development, e-commerce workflows, and software engineering practices.
 
+---
+
+### Web Developer — Geeks Root
+**Mar 2013 – Dec 2013 | On-site | Karachi, Pakistan**
+
+**Key Achievements & Responsibilities:**
+
+- Developed and maintained PHP-based websites with focus on backend functionality and database-driven applications.
+- Managed database operations and implemented features based on business and client requirements.
+- Collaborated with frontend designers and clients to deliver functional and user-friendly web solutions.
+- Improved practical understanding of web development workflows, application structure, and software delivery processes.
 
 ---
 
