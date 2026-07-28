@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Syed Taqiuddin**
+# Hi, I'm **Syed Taqiuddin**
 ### Senior Software Engineer | Team Lead | Full Stack Developer
 
 📧 **Email:** s.taqiuddin6987@gmail.com  
